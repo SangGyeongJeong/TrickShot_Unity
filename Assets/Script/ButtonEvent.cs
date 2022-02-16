@@ -33,7 +33,6 @@ public class ButtonEvent : MonoBehaviour
 
     public static ButtonEvent instance;
 
-
     void Awake()
     {
         if (instance == null)
