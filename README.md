@@ -1,8 +1,5 @@
 # TrickShot_Unity
-Unity TrickShot Game Project
-
 ------
-
 - TrickShot이란?
 
   `Trick(묘기, 재주)과 Shot(발사하다, 시도)의 의미를 가진 합성어입니다.`
